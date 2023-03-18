@@ -1,0 +1,33 @@
+.root {
+  position: relative;
+  width: 49px;
+  height: 49px;
+  align-items: flex-start;
+}
+.ellipse77 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.n {
+  color: #fff;
+  font-size: 24px;
+  font-family: Petrona, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 30.6122%;
+  right: 30.6122%;
+  top: 22.449%;
+  bottom: 22.449%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

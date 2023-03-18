@@ -1,0 +1,209 @@
+.root {
+  position: relative;
+  width: 674px;
+  height: 715px;
+  align-items: flex-start;
+}
+.rectangle356 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px -2px 31px 0px #00000024;
+}
+.userDashboard {
+  color: #000;
+  font-size: 24px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.451%;
+  right: 53.4125%;
+  top: 4.7552%;
+  bottom: 90.6294%;
+  flex-direction: column;
+}
+.weatherData {
+  color: #7a4cfc;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.4521%;
+  right: 80.3082%;
+  top: 12.6911%;
+  bottom: 84.5566%;
+  flex-direction: column;
+}
+.feature2 {
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 23.6301%;
+  right: 61.3014%;
+  top: 12.6911%;
+  bottom: 84.5566%;
+  flex-direction: column;
+}
+.feature3 {
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 42.8082%;
+  right: 42.1233%;
+  top: 12.6911%;
+  bottom: 84.5566%;
+  flex-direction: column;
+}
+.line2 {
+  position: absolute;
+  left: 9.7603%;
+  right: 85.9589%;
+  top: 17.3044%;
+  bottom: 82.4159%;
+  max-width: 100%;
+  max-height: 100%;
+  outline: solid 1px #7a4cfc;
+}
+.subscribedToOurWeatherDataAndW {
+  color: #797979;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 5.7292%;
+  right: 38.4115%;
+  top: 24.8951%;
+  bottom: 68.2517%;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte {
+  position: absolute;
+  left: 4.4271%;
+  right: 8.2442%;
+  top: 35.1049%;
+  bottom: 45.9349%;
+  flex-direction: column;
+}
+.list {
+  font-size: 14px;
+}
+.list ::marker {
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock {
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle362 {
+  position: absolute;
+  left: 4.9658%;
+  right: 66.2671%;
+  top: 66.8196%;
+  bottom: 8.104%;
+  border-radius: 22px;
+  background-color: #7a4cfc;
+  box-shadow: 2px 2px 15px 0px #00000021;
+}
+.rectangle364 {
+  position: absolute;
+  left: 36.9863%;
+  right: 34.2466%;
+  top: 66.8196%;
+  bottom: 8.104%;
+  border-radius: 22px;
+  background-color: #fff;
+  box-shadow: 2px 2px 15px 0px #00000021;
+}
+._12 {
+  position: absolute;
+  left: 10.1027%;
+  right: 79.6233%;
+  top: 73.5474%;
+  bottom: 16.6667%;
+  flex-direction: column;
+}
+.textBlock4 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._10 {
+  color: #575757;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.7534%;
+  right: 50.6849%;
+  top: 73.5474%;
+  bottom: 16.6667%;
+  flex-direction: column;
+}
+.requestsRemaining {
+  color: #fff;
+  font-size: 14px;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.089%;
+  right: 72.7877%;
+  top: 83.3566%;
+  bottom: 13.7382%;
+  flex-direction: column;
+}
+.daysRemainingInCurrentSubscrip {
+  color: #575757;
+  font-size: 14px;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.8012%;
+  right: 38.9933%;
+  top: 83.3566%;
+  bottom: 13.7382%;
+  flex-direction: column;
+}
